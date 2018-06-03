@@ -66,7 +66,7 @@ section.skills ul>li:nth-child(6) .progressBar .progress{width: 30%;}
 section.skills ul>li:nth-child(7) .progressBar .progress{width: 50%;}
 section.skills.offset ul>li .progressBar .progress{width: 0;}
 
-section.portfolio{margin: 0 auto;max-width: 832px;margin-bottom: 100px;text-align: center;position: relative;}
+section.portfolio{margin: 0 auto;max-width: 832px;margin-bottom: 300px;text-align: center;position: relative;}
 section.portfolio h2{margin-bottom: 30px;}
 section.portfolio .swiper-container {width: 668px;height: 501px;}
 section.portfolio .swiper-button-prev,
@@ -76,7 +76,6 @@ section.portfolio .swiper-button-prev,
 .loading::before,.loading::after{content: '';display:block;position: absolute;height: 0;width: 0;top: 0;left: 0;bottom: 0;right: 0;margin: auto;background-color: black;border-radius: 50%;animation : load 1.5s linear infinite;}
 .loading::after{animation-delay: 0.75s;}
 @keyframes load{ from{width: 0px;height: 0px;opacity: 1;} to{width: 100px;height: 100px;opacity: 0;} }
-
 .upload{height: 100%;width: 100%;display: none;position: fixed;top: 0;left: 0;z-index: 1;background-color: #fff;justify-content: center;align-items: center;}
 .upload.active{display: flex;}
 
