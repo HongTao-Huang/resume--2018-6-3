@@ -80,3 +80,5 @@ section.portfolio .swiper-button-prev,
 .upload{height: 100%;width: 100%;display: none;position: fixed;top: 0;left: 0;z-index: 1;background-color: #fff;justify-content: center;align-items: center;}
 .upload.active{display: flex;}
 
+.icon {width: 1em;height: 1em;vertical-align: -0.15em;fill: currentColor;overflow: hidden;}
+
