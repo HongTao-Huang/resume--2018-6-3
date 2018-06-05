@@ -1,6 +1,6 @@
 !function () {
     var view = document.querySelector('nav.menu');
-    var contorler = {
+    var contorller = {
         view : null,
         liTags: null,
         aTags: null,
@@ -65,7 +65,7 @@
             }
         }
     }
-    contorler.init.call(contorler,view);
+    contorller.init.call(contorler,view);
 }.call();
 
 

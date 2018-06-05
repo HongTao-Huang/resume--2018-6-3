@@ -1,6 +1,6 @@
 !function () {
     var view = document.querySelector('#upload');
-    var contorler = {
+    var contorller = {
         view : null,
         init : function(view){
             this.view = view;
@@ -13,5 +13,5 @@
         }
     }
     /****************加载动画********************************/
-    contorler.init.call(contorler,view);
+    contorller.init.call(contorler,view);
 }.call();

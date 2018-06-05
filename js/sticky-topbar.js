@@ -1,6 +1,6 @@
 !function () {
     var view = document.querySelector('#header');
-    var contorler = {
+    var contorller = {
         view : null ,
         init : function (view) {
             this.view = view ;
@@ -23,5 +23,5 @@
             this.view.classList.remove('sticky');
         }
     }
-    contorler.init.call(contorler,view);
+    contorller.init.call(contorler,view);
 }.call();

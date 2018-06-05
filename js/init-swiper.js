@@ -1,6 +1,6 @@
 !function () {
     var view = document.querySelector('#myswiper');
-    var contorler = {
+    var contorller = {
         view : null,
         swiper : null,
         swiperOptions : {
@@ -26,5 +26,5 @@
             this.swiper = this.initSwiper();
         }
     }
-    contorler.init.call(contorler,view);
+    contorller.init.call(contorler,view);
 }.call();
