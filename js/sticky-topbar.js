@@ -23,5 +23,5 @@
             this.view.classList.remove('sticky');
         }
     }
-    contorller.init.call(contorler,view);
+    contorller.init.call(contorller,view);
 }.call();

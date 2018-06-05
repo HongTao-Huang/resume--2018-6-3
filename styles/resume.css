@@ -50,7 +50,7 @@ main.main a.downloadCv:hover{box-shadow: rgba(0, 0, 0, 0.2) 0px 4px 14px 0px;}
 main.main p.text{text-align: center;font-size: 18px;font-family: "STKaiTi";line-height: 33px;}
 
 section.skills{margin: 0 auto;max-width: 940px;margin-bottom: 60px;}
-section.skills h2, section.portfolio h2{font-size: 34px;line-height: 1.2em;color: #3d4451;font-weight: bold;text-align: center;}
+section.skills h2, section.portfolio h2,section.message h2{font-size: 34px;line-height: 1.2em;color: #3d4451;font-weight: bold;text-align: center;}
 section.skills h3, section.skills h3{font-size: 14px;line-height: 1.1em;}
 section.skills ul{margin-top: 30px;padding: 42px 40px 10px;box-shadow:rgba(0, 0, 0, 0.5) 0px 1px 3px 0px;background-color: #fff;}
 section.skills ul>li{float: left;width: 48%;}

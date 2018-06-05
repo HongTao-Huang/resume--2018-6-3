@@ -13,5 +13,5 @@
         }
     }
     /****************加载动画********************************/
-    contorller.init.call(contorler,view);
+    contorller.init.call(contorller,view);
 }.call();

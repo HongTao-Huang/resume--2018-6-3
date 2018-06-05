@@ -26,5 +26,5 @@
             this.swiper = this.initSwiper();
         }
     }
-    contorller.init.call(contorler,view);
+    contorller.init.call(contorller,view);
 }.call();
